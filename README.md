@@ -1,7 +1,7 @@
 This project aims to:
 - test a shopping website created for automated  testing & learning purposes
 - test repetitive actions & main flow, use POM, use test data, no hardcoding, no duplicate coding
-- use tools like JUnit, selenium libraries, java code & chrome
+- use tools like JUnit, selenium libraries, java code & chrome driver
 
 Project is structured into the following packages:
 1. Testsproiect containing th tests performed 
