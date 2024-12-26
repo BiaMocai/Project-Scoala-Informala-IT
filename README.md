@@ -4,7 +4,7 @@ This project aims to:
 - use tools like JUnit, selenium libraries, java code & chrome driver
 
 Project is structured into the following packages:
-1. Testsproiect containing th tests performed 
+1. Testsproiect containing the tests performed 
 
 - Login: successful, invalid & locked user​
 - Log out​
@@ -14,7 +14,7 @@ Project is structured into the following packages:
 - Complete booking & checkout flow
 
 2. PagesProiect contains the pages of the website and the objects necessary for the tests
-3. TestDataProiect.Files contains test databases
+3. TestDataProiect.Files contains test database
 4. Resources contains the chrome driver
 5. Testdatapagesproiect contains the repetitive URLs
 6. Testdata.classes.proiect contains the classes through wich database is accessed
