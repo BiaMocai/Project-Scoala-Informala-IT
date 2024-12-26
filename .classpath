@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-api-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-chrome-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-chrome-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-chromium-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-chromium-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v85-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v85-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v93-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v93-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v94-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v94-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v95-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-devtools-v95-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-edge-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-edge-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-firefox-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-firefox-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-firefox-xpi-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-firefox-xpi-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-http-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-http-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-ie-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-ie-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-java-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-java-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-json-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-json-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-opera-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-opera-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-remote-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-remote-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-safari-driver-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-safari-driver-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-support-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/selenium java extract/selenium-support-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/json library/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/auto-common-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/auto-service-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/auto-service-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/byte-buddy-1.11.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/error_prone_annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-buffer-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-codec-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-codec-http-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-codec-socks-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-common-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-handler-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-handler-proxy-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-resolver-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-transport-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/Downloads/lib/netty-transport-native-epoll-4.1.67.Final.jar"/>
+	<classpathentry kind="src" path="/gr1automatio"/>
+	<classpathentry kind="lib" path="C:/Users/malibu/.p2/pool/plugins/org.junit_4.13.2.v20230809-1000.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://junit.org/junit4/javadoc/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
