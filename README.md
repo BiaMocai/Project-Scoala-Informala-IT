@@ -22,11 +22,15 @@ Project is structured into the following packages:
 
 Challenges:
 
-QA & Java limited view and knowledge
-Test script creation​
-Difficulties with incorporating test data into test script​
-Error resolution ​
-Code for sorting products challenges​
+- QA & Java limited view and knowledge
+  
+- Test script creation​
+  
+- Difficulties with incorporating test data into test script​
+  
+- Error resolution
+  ​
+- Code for sorting products challenges​
 
 ​
 Conclusion:  repetitive actions & main flow run successfully and correctly​
